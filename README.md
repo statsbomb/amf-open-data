@@ -8,7 +8,7 @@ StatsBomb are hoping that by making data freely available, we will extend the wi
 
 ## Terms & Conditions
 
-If you publish, share or distribute any research, analysis or insights based on this data, please state the data source as StatsBomb and use our logo, available in our [Media Pack](https://statsbomb.com/media-pack/).
+If you publish, share or distribute any research, analysis or insights based on this data, please state the data source as StatsBomb and use our logo, available in our [Media Pack](https://statsbomb.com/media-pack/). Please see the [`StatsBomb Public Data User Agreement`](./LICENSE.pdf) for further information regarding use of the data.
 
 ## Getting Started
 
