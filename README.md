@@ -16,7 +16,7 @@ The [data](./data/) is provided as CSV files exported from the StatsBomb Data AP
 
 * Play-level data stored in [`plays`](./data/plays/).
 * Event-level data stored in [`events`](./data/events/).
-* Frame-level data stored in [`frames`](./data/frames/). These can be accessed as individual files for each game with file names referred to by their `game_id` i.e. `lft_<GAME_ID>.csv` .
+* Low-frequency tracking data stored in [`lft`](./data/lft/). These can be accessed as individual files for each game with file names referred to by their `game_id` i.e. `lft_<GAME_ID>.csv` .
 
 Some documentation about the meaning of different variables and the format of the files can be found in the [`doc`](./doc) directory.
 
