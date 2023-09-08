@@ -25,7 +25,7 @@ Some documentation about the meaning of different variables and the format of th
 ### Examples
 Examples of using the data can be found [here](./examples/).
 * [`tb12_passes_python.ipynb`](./examples/tb12_passes_python.ipynb) - Python guide to load in the play and event data from the [#TB12DB](https://statsbomb.com/articles/football/the-tom-brady-data-biography/) release, perform some basic analysis and plot passes on a field. Google Colab version available [here](https://colab.research.google.com/drive/1yDlTc2i-ycyVf02OKJbEjTfrmN0wBPLR?usp=sharing).
-* [`Tom Brady R Demo`](./examples/Tom_Brady_R_Demo.ipynb) - R guide to load in the play and event data from the [#TB12DB](https://statsbomb.com/articles/football/the-tom-brady-data-biography/) release, perform some basic analysis and create a scatter plot and field plot of the data. Google Colab version available [here](https://colab.research.google.com/drive/1IwZ9T9FC0G1M-5zfVuf8d8Ax_8a56WLl?usp=sharing).
+* [`Tom Brady R Demo`](./examples/Tom_Brady_R_Demo.Rmd) - R guide to load in the play and event data from the [#TB12DB](https://statsbomb.com/articles/football/the-tom-brady-data-biography/) release, perform some basic analysis and create a scatter plot and field plot of the data. Google Colab version available [here](https://colab.research.google.com/drive/1IwZ9T9FC0G1M-5zfVuf8d8Ax_8a56WLl?usp=sharing).
 
 ## Careers
 
