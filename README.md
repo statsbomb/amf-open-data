@@ -20,6 +20,7 @@ The [data](./data/) is provided as CSV files exported from the StatsBomb Data AP
 
 Some documentation about the meaning of different variables and the format of the files can be found in the [`doc`](./doc) directory.
 
+### Examples
 Examples of using the data can be found [here](./examples/).
 * [`tb12_passes_python.ipynb`](./examples/tb12_passes_python.ipynb) - Python guide to load in the play and event data from the [#TB12DB](https://statsbomb.com/articles/football/the-tom-brady-data-biography/) release, perform some basic analysis and plot passes on a field. Google Colab version available [here](https://colab.research.google.com/drive/1yDlTc2i-ycyVf02OKJbEjTfrmN0wBPLR?usp=sharing).
 
