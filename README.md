@@ -12,11 +12,13 @@ If you publish, share or distribute any research, analysis or insights based on 
 
 ## Getting Started
 
-The [data](./data/) is provided as CSV files exported from the StatsBomb Data API, in the following structure:
+The [data](./data/) is provided as CSV and Parquet files exported from the StatsBomb Data API, in the following structure:
 
 * Play-level data stored in [`plays`](./data/plays/).
 * Event-level data stored in [`events`](./data/events/).
-* Low-frequency tracking data stored in [`lft`](./data/lft/). These can be accessed as individual files for each game with file names referred to by their `game_id` i.e. `lft_<GAME_ID>.csv` .
+* Low-frequency tracking data stored in [`lft`](./data/lft/). These can be accessed as:
+    * Individual files for each game with file names referred to by their `game_id` i.e. `<GAME_ID>.csv` .
+    * Individual files for each season as Parquet files.
 
 Some documentation about the meaning of different variables and the format of the files can be found in the [`doc`](./doc) directory.
 
