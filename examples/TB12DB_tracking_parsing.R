@@ -3,7 +3,8 @@ library(tidyverse)
 library(listviewer)
 
 
-#### Download game file from GitHub and then use the file path to read it into R
+#### Download game file from GitHub (https://github.com/statsbomb/amf-open-data/blob/main/data/tracking/SB_tracking_20230116_DAL_TB.json.gz)
+#### and then use the file path to read it into R
 game <- fromJSON("/Users/mattedwards/Downloads/SB_tracking_20230116_DAL_TB.json", nullValue = NaN)
 
 #### Get the game level information
