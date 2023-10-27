@@ -1,11 +1,19 @@
 library(RJSONIO)
 library(tidyverse)
 library(listviewer)
+library(httr)
+library(R.utils)
+
+#### Read game in from the github website
+url <- "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20230116_DAL_TB.json.gz"
+response <- GET(url, write_disk("data.json.gz", overwrite = TRUE))
+df <- gunzip("data.json.gz")
+game <- RJSONIO::fromJSON("~/data.json", nullValue = NaN)
 
 
-#### Download game file from GitHub (https://github.com/statsbomb/amf-open-data/blob/main/data/tracking/SB_tracking_20230116_DAL_TB.json.gz)
+#### OR, download game file from GitHub (https://github.com/statsbomb/amf-open-data/blob/main/data/tracking/SB_tracking_20230116_DAL_TB.json.gz)
 #### and then use the file path to read it into R
-game <- fromJSON("/Users/mattedwards/Downloads/SB_tracking_20230116_DAL_TB.json", nullValue = NaN)
+#### game <- fromJSON("/Users/mattedwards/Downloads/SB_tracking_20230116_DAL_TB.json", nullValue = NaN)
 
 #### Get the game level information
 game_id = game$game_id
