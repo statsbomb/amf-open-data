@@ -20,6 +20,10 @@ The [data](./data/) is provided as CSV, Parquet and compressed JSON files export
     * Individual files for each game with file names referred to by their `game_id` i.e. `<GAME_ID>.csv` .
     * Individual files for each season as Parquet files.
 * High-frequency tracking data stored in [`tracking`](./data/tracking/).
+    * Individual files for each game with file names referred to by the date of the game and the teams playing. These are compressed `json` files with a `json.gz` file extension.
+    * Zipped `json` files containing the individual seasons, available via AWS S3:
+        * [TB12DB 2021 season](https://statsbomb-amf-open-data.s3.eu-west-2.amazonaws.com/tracking/SB_tracking_TB12DB_2021.zip)
+        * [TB12DB 2022 season](https://statsbomb-amf-open-data.s3.eu-west-2.amazonaws.com/tracking/SB_tracking_TB12DB_2022.zip)
 
 Some documentation about the meaning of different variables and the format of the files can be found in the [`doc`](./doc) directory.
 
