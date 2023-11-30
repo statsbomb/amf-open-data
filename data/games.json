@@ -1,0 +1,1142 @@
+[
+    {
+        "game_id": 1503686,
+        "game_date": "2020-09-13",
+        "nfl_game_id": "2020_01_TB_NO",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "New Orleans Saints",
+            "team_id": 1001295,
+            "nfl_team_id": "NO"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20200913_TB_NO.json.gz"
+    },
+    {
+        "game_id": 1503687,
+        "game_date": "2020-09-20",
+        "nfl_game_id": "2020_02_CAR_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Carolina Panthers",
+            "team_id": 1000924,
+            "nfl_team_id": "CAR"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20200920_CAR_TB.json.gz"
+    },
+    {
+        "game_id": 1503688,
+        "game_date": "2020-09-27",
+        "nfl_game_id": "2020_03_TB_DEN",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Denver Broncos",
+            "team_id": 1001398,
+            "nfl_team_id": "DEN"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20200927_TB_DEN.json.gz"
+    },
+    {
+        "game_id": 1503728,
+        "game_date": "2020-10-04",
+        "nfl_game_id": "2020_04_LAC_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Los Angeles Chargers",
+            "team_id": 1001378,
+            "nfl_team_id": "LAC"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201004_LAC_TB.json.gz"
+    },
+    {
+        "game_id": 1503690,
+        "game_date": "2020-10-08",
+        "nfl_game_id": "2020_05_TB_CHI",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Chicago Bears",
+            "team_id": 1001401,
+            "nfl_team_id": "CHI"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201008_TB_CHI.json.gz"
+    },
+    {
+        "game_id": 1503729,
+        "game_date": "2020-10-18",
+        "nfl_game_id": "2020_06_GB_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Green Bay Packers",
+            "team_id": 1000948,
+            "nfl_team_id": "GB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201018_GB_TB.json.gz"
+    },
+    {
+        "game_id": 1503692,
+        "game_date": "2020-10-25",
+        "nfl_game_id": "2020_07_TB_LV",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Las Vegas Raiders",
+            "team_id": 1001403,
+            "nfl_team_id": "LV"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201025_TB_LV.json.gz"
+    },
+    {
+        "game_id": 1503693,
+        "game_date": "2020-11-02",
+        "nfl_game_id": "2020_08_TB_NYG",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "New York Giants",
+            "team_id": 1001399,
+            "nfl_team_id": "NYG"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201102_TB_NYG.json.gz"
+    },
+    {
+        "game_id": 1503694,
+        "game_date": "2020-11-08",
+        "nfl_game_id": "2020_09_NO_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "New Orleans Saints",
+            "team_id": 1001295,
+            "nfl_team_id": "NO"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201108_NO_TB.json.gz"
+    },
+    {
+        "game_id": 1503730,
+        "game_date": "2020-11-15",
+        "nfl_game_id": "2020_10_TB_CAR",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Carolina Panthers",
+            "team_id": 1000924,
+            "nfl_team_id": "CAR"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201115_TB_CAR.json.gz"
+    },
+    {
+        "game_id": 1503731,
+        "game_date": "2020-11-23",
+        "nfl_game_id": "2020_11_LA_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Los Angeles Rams",
+            "team_id": 1000925,
+            "nfl_team_id": "LA"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201123_LAR_TB.json.gz"
+    },
+    {
+        "game_id": 1503732,
+        "game_date": "2020-11-29",
+        "nfl_game_id": "2020_12_KC_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Kansas City Chiefs",
+            "team_id": 1001396,
+            "nfl_team_id": "KC"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201129_KC_TB.json.gz"
+    },
+    {
+        "game_id": 1503733,
+        "game_date": "2020-12-13",
+        "nfl_game_id": "2020_14_MIN_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Minnesota Vikings",
+            "team_id": 1001384,
+            "nfl_team_id": "MIN"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201213_MIN_TB.json.gz"
+    },
+    {
+        "game_id": 1503734,
+        "game_date": "2020-12-20",
+        "nfl_game_id": "2020_15_TB_ATL",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Atlanta Falcons",
+            "team_id": 1001395,
+            "nfl_team_id": "ATL"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201220_TB_ATL.json.gz"
+    },
+    {
+        "game_id": 1503735,
+        "game_date": "2020-12-26",
+        "nfl_game_id": "2020_16_TB_DET",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Detroit Lions",
+            "team_id": 1001366,
+            "nfl_team_id": "DET"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20201226_TB_DET.json.gz"
+    },
+    {
+        "game_id": 1503736,
+        "game_date": "2021-01-03",
+        "nfl_game_id": "2020_17_ATL_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Atlanta Falcons",
+            "team_id": 1001395,
+            "nfl_team_id": "ATL"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20210103_ATL_TB.json.gz"
+    },
+    {
+        "game_id": 1503737,
+        "game_date": "2021-01-09",
+        "nfl_game_id": "2020_18_TB_WAS",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Washington Commanders",
+            "team_id": 1001379,
+            "nfl_team_id": "WAS"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20210109_TB_WAS.json.gz"
+    },
+    {
+        "game_id": 1503738,
+        "game_date": "2021-01-17",
+        "nfl_game_id": "2020_19_TB_NO",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "New Orleans Saints",
+            "team_id": 1001295,
+            "nfl_team_id": "NO"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20210117_TB_NO.json.gz"
+    },
+    {
+        "game_id": 1503739,
+        "game_date": "2021-01-24",
+        "nfl_game_id": "2020_20_TB_GB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Green Bay Packers",
+            "team_id": 1000948,
+            "nfl_team_id": "GB"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20210124_TB_GB.json.gz"
+    },
+    {
+        "game_id": 1503740,
+        "game_date": "2021-02-07",
+        "nfl_game_id": "2020_21_KC_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 90,
+        "season_name": 2020,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Kansas City Chiefs",
+            "team_id": 1001396,
+            "nfl_team_id": "KC"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20210207_KC_TB.json.gz"
+    },
+    {
+        "game_id": 1502044,
+        "game_date": "2021-09-09",
+        "nfl_game_id": "2021_01_DAL_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Dallas Cowboys",
+            "team_id": 1001367,
+            "nfl_team_id": "DAL"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20210909_DAL_TB.json.gz"
+    },
+    {
+        "game_id": 1502070,
+        "game_date": "2021-09-19",
+        "nfl_game_id": "2021_02_ATL_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Atlanta Falcons",
+            "team_id": 1001395,
+            "nfl_team_id": "ATL"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20210919_ATL_TB.json.gz"
+    },
+    {
+        "game_id": 1069736,
+        "game_date": "2021-09-26",
+        "nfl_game_id": "2021_03_TB_LA",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Los Angeles Rams",
+            "team_id": 1000925,
+            "nfl_team_id": "LA"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20210926_TB_LAR.json.gz"
+    },
+    {
+        "game_id": 1502101,
+        "game_date": "2021-10-03",
+        "nfl_game_id": "2021_04_TB_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211003_TB_NE.json.gz"
+    },
+    {
+        "game_id": 1502211,
+        "game_date": "2021-10-10",
+        "nfl_game_id": "2021_05_MIA_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Miami Dolphins",
+            "team_id": 1001400,
+            "nfl_team_id": "MIA"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211010_MIA_TB.json.gz"
+    },
+    {
+        "game_id": 1502262,
+        "game_date": "2021-10-15",
+        "nfl_game_id": "2021_06_TB_PHI",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Philadelphia Eagles",
+            "team_id": 1001394,
+            "nfl_team_id": "PHI"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211015_TB_PHI.json.gz"
+    },
+    {
+        "game_id": 1502120,
+        "game_date": "2021-10-24",
+        "nfl_game_id": "2021_07_CHI_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Chicago Bears",
+            "team_id": 1001401,
+            "nfl_team_id": "CHI"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211024_CHI_TB.json.gz"
+    },
+    {
+        "game_id": 1502133,
+        "game_date": "2021-10-31",
+        "nfl_game_id": "2021_08_TB_NO",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "New Orleans Saints",
+            "team_id": 1001295,
+            "nfl_team_id": "NO"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211031_TB_NO.json.gz"
+    },
+    {
+        "game_id": 1502162,
+        "game_date": "2021-11-14",
+        "nfl_game_id": "2021_10_TB_WAS",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Washington Commanders",
+            "team_id": 1001379,
+            "nfl_team_id": "WAS"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211114_TB_WAS.json.gz"
+    },
+    {
+        "game_id": 1071896,
+        "game_date": "2021-11-22",
+        "nfl_game_id": "2021_11_NYG_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "New York Giants",
+            "team_id": 1001399,
+            "nfl_team_id": "NYG"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211122_NYG_TB.json.gz"
+    },
+    {
+        "game_id": 1502244,
+        "game_date": "2021-11-28",
+        "nfl_game_id": "2021_12_TB_IND",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Indianapolis Colts",
+            "team_id": 1001382,
+            "nfl_team_id": "IND"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211128_TB_IND.json.gz"
+    },
+    {
+        "game_id": 1071960,
+        "game_date": "2021-12-05",
+        "nfl_game_id": "2021_13_TB_ATL",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Atlanta Falcons",
+            "team_id": 1001395,
+            "nfl_team_id": "ATL"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211205_TB_ATL.json.gz"
+    },
+    {
+        "game_id": 1502260,
+        "game_date": "2021-12-12",
+        "nfl_game_id": "2021_14_BUF_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Buffalo Bills",
+            "team_id": 1001393,
+            "nfl_team_id": "BUF"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211212_BUF_TB.json.gz"
+    },
+    {
+        "game_id": 1502236,
+        "game_date": "2021-12-19",
+        "nfl_game_id": "2021_15_NO_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "New Orleans Saints",
+            "team_id": 1001295,
+            "nfl_team_id": "NO"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211219_NO_TB.json.gz"
+    },
+    {
+        "game_id": 1502266,
+        "game_date": "2021-12-26",
+        "nfl_game_id": "2021_16_TB_CAR",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Carolina Panthers",
+            "team_id": 1000924,
+            "nfl_team_id": "CAR"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20211226_TB_CAR.json.gz"
+    },
+    {
+        "game_id": 1502261,
+        "game_date": "2022-01-02",
+        "nfl_game_id": "2021_17_TB_NYJ",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "New York Jets",
+            "team_id": 1001383,
+            "nfl_team_id": "NYJ"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20220102_TB_NYJ.json.gz"
+    },
+    {
+        "game_id": 1072135,
+        "game_date": "2022-01-09",
+        "nfl_game_id": "2021_18_CAR_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Carolina Panthers",
+            "team_id": 1000924,
+            "nfl_team_id": "CAR"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20220109_CAR_TB.json.gz"
+    },
+    {
+        "game_id": 1072133,
+        "game_date": "2022-01-16",
+        "nfl_game_id": "2021_19_PHI_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Philadelphia Eagles",
+            "team_id": 1001394,
+            "nfl_team_id": "PHI"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20220116_PHI_TB.json.gz"
+    },
+    {
+        "game_id": 1072153,
+        "game_date": "2022-01-23",
+        "nfl_game_id": "2021_20_LA_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 224,
+        "season_name": 2021,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Los Angeles Rams",
+            "team_id": 1000925,
+            "nfl_team_id": "LA"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20220123_LAR_TB.json.gz"
+    },
+    {
+        "game_id": 1501094,
+        "game_date": "2022-09-11",
+        "nfl_game_id": "2022_01_TB_DAL",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Dallas Cowboys",
+            "team_id": 1001367,
+            "nfl_team_id": "DAL"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20220911_TB_DAL.json.gz"
+    },
+    {
+        "game_id": 1500094,
+        "game_date": "2022-09-18",
+        "nfl_game_id": "2022_02_TB_NO",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "New Orleans Saints",
+            "team_id": 1001295,
+            "nfl_team_id": "NO"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20220918_TB_NO.json.gz"
+    },
+    {
+        "game_id": 1500118,
+        "game_date": "2022-09-25",
+        "nfl_game_id": "2022_03_GB_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Green Bay Packers",
+            "team_id": 1000948,
+            "nfl_team_id": "GB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20220925_GB_TB.json.gz"
+    },
+    {
+        "game_id": 1500135,
+        "game_date": "2022-10-02",
+        "nfl_game_id": "2022_04_KC_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Kansas City Chiefs",
+            "team_id": 1001396,
+            "nfl_team_id": "KC"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221002_KC_TB.json.gz"
+    },
+    {
+        "game_id": 1500146,
+        "game_date": "2022-10-09",
+        "nfl_game_id": "2022_05_ATL_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Atlanta Falcons",
+            "team_id": 1001395,
+            "nfl_team_id": "ATL"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221009_ATL_TB.json.gz"
+    },
+    {
+        "game_id": 1500161,
+        "game_date": "2022-10-16",
+        "nfl_game_id": "2022_06_TB_PIT",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Pittsburgh Steelers",
+            "team_id": 1001392,
+            "nfl_team_id": "PIT"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221016_TB_PIT.json.gz"
+    },
+    {
+        "game_id": 1500169,
+        "game_date": "2022-10-23",
+        "nfl_game_id": "2022_07_TB_CAR",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Carolina Panthers",
+            "team_id": 1000924,
+            "nfl_team_id": "CAR"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221023_TB_CAR.json.gz"
+    },
+    {
+        "game_id": 1500181,
+        "game_date": "2022-10-27",
+        "nfl_game_id": "2022_08_BAL_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Baltimore Ravens",
+            "team_id": 1001402,
+            "nfl_team_id": "BAL"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221027_BAL_TB.json.gz"
+    },
+    {
+        "game_id": 1500206,
+        "game_date": "2022-11-06",
+        "nfl_game_id": "2022_09_LA_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Los Angeles Rams",
+            "team_id": 1000925,
+            "nfl_team_id": "LA"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221106_LAR_TB.json.gz"
+    },
+    {
+        "game_id": 1500210,
+        "game_date": "2022-11-13",
+        "nfl_game_id": "2022_10_SEA_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Seattle Seahawks",
+            "team_id": 1001298,
+            "nfl_team_id": "SEA"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221113_SEA_TB.json.gz"
+    },
+    {
+        "game_id": 1500241,
+        "game_date": "2022-11-27",
+        "nfl_game_id": "2022_12_TB_CLE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Cleveland Browns",
+            "team_id": 1001397,
+            "nfl_team_id": "CLE"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221127_TB_CLE.json.gz"
+    },
+    {
+        "game_id": 1500267,
+        "game_date": "2022-12-05",
+        "nfl_game_id": "2022_13_NO_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "New Orleans Saints",
+            "team_id": 1001295,
+            "nfl_team_id": "NO"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221205_NO_TB.json.gz"
+    },
+    {
+        "game_id": 1500278,
+        "game_date": "2022-12-11",
+        "nfl_game_id": "2022_14_TB_SF",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "San Francisco 49ers",
+            "team_id": 1001297,
+            "nfl_team_id": "SF"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221211_TB_SF.json.gz"
+    },
+    {
+        "game_id": 1500289,
+        "game_date": "2022-12-18",
+        "nfl_game_id": "2022_15_CIN_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Cincinnati Bengals",
+            "team_id": 1001294,
+            "nfl_team_id": "CIN"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221218_CIN_TB.json.gz"
+    },
+    {
+        "game_id": 1500305,
+        "game_date": "2022-12-25",
+        "nfl_game_id": "2022_16_TB_ARI",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Arizona Cardinals",
+            "team_id": 1001296,
+            "nfl_team_id": "ARI"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20221225_TB_ARI.json.gz"
+    },
+    {
+        "game_id": 1500316,
+        "game_date": "2023-01-01",
+        "nfl_game_id": "2022_17_CAR_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Carolina Panthers",
+            "team_id": 1000924,
+            "nfl_team_id": "CAR"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20230101_CAR_TB.json.gz"
+    },
+    {
+        "game_id": 1501332,
+        "game_date": "2023-01-08",
+        "nfl_game_id": "2022_18_TB_ATL",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Atlanta Falcons",
+            "team_id": 1001395,
+            "nfl_team_id": "ATL"
+        },
+        "away_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20230108_TB_ATL.json.gz"
+    },
+    {
+        "game_id": 1501351,
+        "game_date": "2023-01-16",
+        "nfl_game_id": "2022_19_DAL_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1000,
+        "season_name": 2022,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "Dallas Cowboys",
+            "team_id": 1001367,
+            "nfl_team_id": "DAL"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20230116_DAL_TB.json.gz"
+    }
+]
