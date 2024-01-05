@@ -21,7 +21,9 @@ The [data](./data/) is provided as CSV, Parquet and compressed JSON files export
     * Individual files for each season as Parquet files.
 * High-frequency tracking data stored in [`tracking`](./data/tracking/).
     * Individual files for each game with file names referred to by the date of the game and the teams playing. These are compressed `json` files with a `json.gz` file extension.
+        * Meta-data and the `url` for each game can be found in the [`games.json`](./data/games.json) file.
     * Zipped `json` files containing the individual seasons, available via AWS S3:
+        * [TB12DB 2020 season](https://statsbomb-amf-open-data.s3.eu-west-2.amazonaws.com/tracking/SB_tracking_TB12DB_2020.zip)
         * [TB12DB 2021 season](https://statsbomb-amf-open-data.s3.eu-west-2.amazonaws.com/tracking/SB_tracking_TB12DB_2021.zip)
         * [TB12DB 2022 season](https://statsbomb-amf-open-data.s3.eu-west-2.amazonaws.com/tracking/SB_tracking_TB12DB_2022.zip)
 
@@ -33,6 +35,7 @@ Examples of using the data can be found [here](./examples/).
 * [`Tom Brady R Demo`](./examples/Tom_Brady_R_Demo.Rmd) - R guide to load in the play and event data from the [#TB12DB](https://statsbomb.com/articles/football/the-tom-brady-data-biography/) release, perform some basic analysis and create a scatter plot and field plot of the data. Google Colab version available [here](https://colab.research.google.com/drive/1IwZ9T9FC0G1M-5zfVuf8d8Ax_8a56WLl?usp=sharing).
 * [`tb12_tracking_python.ipynb`](./examples/tb12_tracking_python.ipynb) - Python guide to load in a game of tracking data from the [#TB12DB](https://statsbomb.com/articles/football/the-tom-brady-data-biography/) release and create an animation of an individual play. Google Colab version available [here](https://colab.research.google.com/drive/1TNvvbyvrdpK38bB6UrhA4xZhU0fkNrdi?usp=sharing).
 * [`tb12 tracking R Demo`](./examples/TB12DB_tracking_parsing.R) - R guide to load in a game of tracking data from the [#TB12DB](https://statsbomb.com/articles/football/the-tom-brady-data-biography/) release and create an animation of an individual play.
+* [`tb12_tracking_defense_python.ipynb`](./examples/tb12_tracking_defense_python.ipynb) - Python guide to load in multiple games of tracking data from the [#TB12DB](https://statsbomb.com/articles/football/the-tom-brady-data-biography/) release and automatically detect defensive alignments. Google Colab version available [here](https://colab.research.google.com/drive/1bawNWRVrGyN7iLtzf4Owj_wceKQ3NI-g?usp=sharing).
 
 ## Careers
 
