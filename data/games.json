@@ -1,5 +1,345 @@
 [
     {
+        "game_id": 1503707,
+        "game_date": "2019-09-08",
+        "nfl_game_id": "2019_01_PIT_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Pittsburgh Steelers",
+            "team_id": 1001392,
+            "nfl_team_id": "PIT"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20190908_PIT_NE.json.gz"
+    },
+    {
+        "game_id": 1503708,
+        "game_date": "2019-09-15",
+        "nfl_game_id": "2019_02_NE_MIA",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Miami Dolphins",
+            "team_id": 1001400,
+            "nfl_team_id": "MIA"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20190915_MIA_NE.json.gz"
+    },
+    {
+        "game_id": 1503709,
+        "game_date": "2019-09-22",
+        "nfl_game_id": "2019_03_NYJ_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "New York Jets",
+            "team_id": 1001383,
+            "nfl_team_id": "NYJ"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20190922_NYJ_NE.json.gz"
+    },
+    {
+        "game_id": 1503710,
+        "game_date": "2019-09-29",
+        "nfl_game_id": "2019_04_NE_BUF",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "Buffalo Bills",
+            "team_id": 1001393,
+            "nfl_team_id": "BUF"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20190929_NE_BUF.json.gz"
+    },
+    {
+        "game_id": 1503711,
+        "game_date": "2019-10-06",
+        "nfl_game_id": "2019_05_NE_WAS",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "Washington Commanders",
+            "team_id": 1001379,
+            "nfl_team_id": "WAS"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191006_NE_WAS.json.gz"
+    },
+    {
+        "game_id": 1503712,
+        "game_date": "2019-10-10",
+        "nfl_game_id": "2019_06_NYG_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "New York Giants",
+            "team_id": 1001399,
+            "nfl_team_id": "NYG"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191010_NYG_NE.json.gz"
+    },
+    {
+        "game_id": 1503713,
+        "game_date": "2019-10-20",
+        "nfl_game_id": "2019_07_NE_NYJ",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New York Jets",
+            "team_id": 1001383,
+            "nfl_team_id": "NYJ"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191020_NE_NYJ.json.gz"
+    },
+    {
+        "game_id": 1503714,
+        "game_date": "2019-10-27",
+        "nfl_game_id": "2019_08_CLE_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Cleveland Browns",
+            "team_id": 1001397,
+            "nfl_team_id": "CLE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191027_CLE_NE.json.gz"
+    },
+    {
+        "game_id": 1503715,
+        "game_date": "2019-11-03",
+        "nfl_game_id": "2019_09_NE_BAL",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "Baltimore Ravens",
+            "team_id": 1001402,
+            "nfl_team_id": "BAL"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191103_NE_BAL.json.gz"
+    },
+    {
+        "game_id": 1503716,
+        "game_date": "2019-11-17",
+        "nfl_game_id": "2019_11_NE_PHI",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "Philadelphia Eagles",
+            "team_id": 1001394,
+            "nfl_team_id": "PHI"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191117_NE_PHI.json.gz"
+    },
+    {
+        "game_id": 1503717,
+        "game_date": "2019-11-24",
+        "nfl_game_id": "2019_12_DAL_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Dallas Cowboys",
+            "team_id": 1001367,
+            "nfl_team_id": "DAL"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191124_DAL_NE.json.gz"
+    },
+    {
+        "game_id": 1503718,
+        "game_date": "2019-12-01",
+        "nfl_game_id": "2019_13_NE_HOU",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "Houston Texans",
+            "team_id": 1001374,
+            "nfl_team_id": "HOU"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191201_NE_HOU.json.gz"
+    },
+    {
+        "game_id": 1503719,
+        "game_date": "2019-12-08",
+        "nfl_game_id": "2019_14_KC_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Kansas City Chiefs",
+            "team_id": 1001396,
+            "nfl_team_id": "KC"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191208_KC_NE.json.gz"
+    },
+    {
+        "game_id": 1503720,
+        "game_date": "2019-12-15",
+        "nfl_game_id": "2019_15_NE_CIN",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "Cincinnati Bengals",
+            "team_id": 1001294,
+            "nfl_team_id": "CIN"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191215_NE_CIN.json.gz"
+    },
+    {
+        "game_id": 1503721,
+        "game_date": "2019-12-21",
+        "nfl_game_id": "2019_16_BUF_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Buffalo Bills",
+            "team_id": 1001393,
+            "nfl_team_id": "BUF"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191221_BUF_NE.json.gz"
+    },
+    {
+        "game_id": 1503722,
+        "game_date": "2019-12-29",
+        "nfl_game_id": "2019_17_MIA_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Miami Dolphins",
+            "team_id": 1001400,
+            "nfl_team_id": "MIA"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20191229_MIA_NE.json.gz"
+    },
+    {
+        "game_id": 1503723,
+        "game_date": "2020-01-04",
+        "nfl_game_id": "2019_18_TEN_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 42,
+        "season_name": 2019,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Tennessee Titans",
+            "team_id": 1001385,
+            "nfl_team_id": "TEN"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20200104_TEN_NE.json.gz"
+    },
+    {
         "game_id": 1503686,
         "game_date": "2020-09-13",
         "nfl_game_id": "2020_01_TB_NO",
