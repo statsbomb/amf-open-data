@@ -23,6 +23,7 @@ The [data](./data/) is provided as CSV, Parquet and compressed JSON files export
     * Individual files for each game with file names referred to by the date of the game and the teams playing. These are compressed `json` files with a `json.gz` file extension.
         * Meta-data and the `url` for each game can be found in the [`games.json`](./data/games.json) file.
     * Zipped `json` files containing the individual seasons, available via AWS S3:
+        * [TB12DB 2018 season](https://statsbomb-amf-open-data.s3.eu-west-2.amazonaws.com/tracking/SB_tracking_TB12DB_2018.zip)
         * [TB12DB 2019 season](https://statsbomb-amf-open-data.s3.eu-west-2.amazonaws.com/tracking/SB_tracking_TB12DB_2019.zip)
         * [TB12DB 2020 season](https://statsbomb-amf-open-data.s3.eu-west-2.amazonaws.com/tracking/SB_tracking_TB12DB_2020.zip)
         * [TB12DB 2021 season](https://statsbomb-amf-open-data.s3.eu-west-2.amazonaws.com/tracking/SB_tracking_TB12DB_2021.zip)
