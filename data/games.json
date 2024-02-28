@@ -1,5 +1,345 @@
 [
     {
+        "game_id": 1074629,
+        "game_date": "2017-09-07",
+        "nfl_game_id": "2017_01_KC_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Kansas City Chiefs",
+            "team_id": 1001396,
+            "nfl_team_id": "KC"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20170907_KC_NE.json.gz"
+    },
+    {
+        "game_id": 1074671,
+        "game_date": "2017-09-17",
+        "nfl_game_id": "2017_02_NE_NO",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New Orleans Saints",
+            "team_id": 1001295,
+            "nfl_team_id": "NO"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20170917_NE_NO.json.gz"
+    },
+    {
+        "game_id": 1074707,
+        "game_date": "2017-09-24",
+        "nfl_game_id": "2017_03_HOU_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Houston Texans",
+            "team_id": 1001374,
+            "nfl_team_id": "HOU"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20170924_HOU_NE.json.gz"
+    },
+    {
+        "game_id": 1074739,
+        "game_date": "2017-10-01",
+        "nfl_game_id": "2017_04_CAR_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Carolina Panthers",
+            "team_id": 1000924,
+            "nfl_team_id": "CAR"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171001_CAR_NE.json.gz"
+    },
+    {
+        "game_id": 1074755,
+        "game_date": "2017-10-05",
+        "nfl_game_id": "2017_05_NE_TB",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "Tampa Bay Buccaneers",
+            "team_id": 1000947,
+            "nfl_team_id": "TB"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171005_NE_TB.json.gz"
+    },
+    {
+        "game_id": 1074795,
+        "game_date": "2017-10-15",
+        "nfl_game_id": "2017_06_NE_NYJ",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New York Jets",
+            "team_id": 1001383,
+            "nfl_team_id": "NYJ"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171015_NE_NYJ.json.gz"
+    },
+    {
+        "game_id": 1074849,
+        "game_date": "2017-10-29",
+        "nfl_game_id": "2017_08_LAC_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Los Angeles Chargers",
+            "team_id": 1001378,
+            "nfl_team_id": "LAC"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171029_LAC_NE.json.gz"
+    },
+    {
+        "game_id": 1074917,
+        "game_date": "2017-11-12",
+        "nfl_game_id": "2017_10_NE_DEN",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "Denver Broncos",
+            "team_id": 1001398,
+            "nfl_team_id": "DEN"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171112_NE_DEN.json.gz"
+    },
+    {
+        "game_id": 1074943,
+        "game_date": "2017-11-19",
+        "nfl_game_id": "2017_11_NE_OAK",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "Las Vegas Raiders",
+            "team_id": 1001403,
+            "nfl_team_id": "LV"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171119_NE_LV.json.gz"
+    },
+    {
+        "game_id": 1074987,
+        "game_date": "2017-12-03",
+        "nfl_game_id": "2017_13_NE_BUF",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "Buffalo Bills",
+            "team_id": 1001393,
+            "nfl_team_id": "BUF"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171203_NE_BUF.json.gz"
+    },
+    {
+        "game_id": 1075041,
+        "game_date": "2017-12-11",
+        "nfl_game_id": "2017_14_NE_MIA",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "Miami Dolphins",
+            "team_id": 1001400,
+            "nfl_team_id": "MIA"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171211_NE_MIA.json.gz"
+    },
+    {
+        "game_id": 1075067,
+        "game_date": "2017-12-17",
+        "nfl_game_id": "2017_15_NE_PIT",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "Pittsburgh Steelers",
+            "team_id": 1001392,
+            "nfl_team_id": "PIT"
+        },
+        "away_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171217_NE_PIT.json.gz"
+    },
+    {
+        "game_id": 1075087,
+        "game_date": "2017-12-24",
+        "nfl_game_id": "2017_16_BUF_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Buffalo Bills",
+            "team_id": 1001393,
+            "nfl_team_id": "BUF"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171224_BUF_NE.json.gz"
+    },
+    {
+        "game_id": 1075113,
+        "game_date": "2017-12-31",
+        "nfl_game_id": "2017_17_NYJ_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "New York Jets",
+            "team_id": 1001383,
+            "nfl_team_id": "NYJ"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20171231_NYJ_NE.json.gz"
+    },
+    {
+        "game_id": 1075150,
+        "game_date": "2018-01-13",
+        "nfl_game_id": "2017_19_TEN_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Tennessee Titans",
+            "team_id": 1001385,
+            "nfl_team_id": "TEN"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20180113_TEN_NE.json.gz"
+    },
+    {
+        "game_id": 1075156,
+        "game_date": "2018-01-21",
+        "nfl_game_id": "2017_20_JAX_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Jacksonville Jaguars",
+            "team_id": 1001373,
+            "nfl_team_id": "JAX"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20180121_JAX_NE.json.gz"
+    },
+    {
+        "game_id": 1075160,
+        "game_date": "2018-02-04",
+        "nfl_game_id": "2017_21_PHI_NE",
+        "competition_id": 1409,
+        "competition_name": "NFL",
+        "season_id": 1,
+        "season_name": 2017,
+        "home_team": {
+            "name": "New England Patriots",
+            "team_id": 1000946,
+            "nfl_team_id": "NE"
+        },
+        "away_team": {
+            "name": "Philadelphia Eagles",
+            "team_id": 1001394,
+            "nfl_team_id": "PHI"
+        },
+        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20180204_PHI_NE.json.gz"
+    },
+    {
         "game_id": 1074021,
         "game_date": "2018-09-09",
         "nfl_game_id": "2018_01_HOU_NE",
