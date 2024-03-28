@@ -20,26 +20,6 @@
         "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20170907_KC_NE.json.gz"
     },
     {
-        "game_id": 1074671,
-        "game_date": "2017-09-17",
-        "nfl_game_id": "2017_02_NE_NO",
-        "competition_id": 1409,
-        "competition_name": "NFL",
-        "season_id": 1,
-        "season_name": 2017,
-        "home_team": {
-            "name": "New Orleans Saints",
-            "team_id": 1001295,
-            "nfl_team_id": "NO"
-        },
-        "away_team": {
-            "name": "New England Patriots",
-            "team_id": 1000946,
-            "nfl_team_id": "NE"
-        },
-        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20170917_NE_NO.json.gz"
-    },
-    {
         "game_id": 1074707,
         "game_date": "2017-09-24",
         "nfl_game_id": "2017_03_HOU_NE",
@@ -440,26 +420,6 @@
         "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20181014_KC_NE.json.gz"
     },
     {
-        "game_id": 1074285,
-        "game_date": "2018-10-21",
-        "nfl_game_id": "2018_07_NE_CHI",
-        "competition_id": 1409,
-        "competition_name": "NFL",
-        "season_id": 4,
-        "season_name": 2018,
-        "home_team": {
-            "name": "Chicago Bears",
-            "team_id": 1001401,
-            "nfl_team_id": "CHI"
-        },
-        "away_team": {
-            "name": "New England Patriots",
-            "team_id": 1000946,
-            "nfl_team_id": "NE"
-        },
-        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20181021_NE_CHI.json.gz"
-    },
-    {
         "game_id": 1074335,
         "game_date": "2018-10-29",
         "nfl_game_id": "2018_08_NE_BUF",
@@ -498,26 +458,6 @@
             "nfl_team_id": "GB"
         },
         "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20181104_GB_NE.json.gz"
-    },
-    {
-        "game_id": 1074379,
-        "game_date": "2018-11-11",
-        "nfl_game_id": "2018_10_NE_TEN",
-        "competition_id": 1409,
-        "competition_name": "NFL",
-        "season_id": 4,
-        "season_name": 2018,
-        "home_team": {
-            "name": "Tennessee Titans",
-            "team_id": 1001385,
-            "nfl_team_id": "TEN"
-        },
-        "away_team": {
-            "name": "New England Patriots",
-            "team_id": 1000946,
-            "nfl_team_id": "NE"
-        },
-        "url": "https://raw.githubusercontent.com/statsbomb/amf-open-data/main/data/tracking/SB_tracking_20181111_NE_TEN.json.gz"
     },
     {
         "game_id": 1074431,
